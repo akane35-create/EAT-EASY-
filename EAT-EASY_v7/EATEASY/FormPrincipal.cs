@@ -12,6 +12,8 @@ namespace EATEASY
 {
     public partial class FormPrincipal : Form
     {
+
+
         private string tipoUsuario;
 
         public FormPrincipal(string tipo)

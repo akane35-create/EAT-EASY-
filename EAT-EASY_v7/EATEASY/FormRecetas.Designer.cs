@@ -94,13 +94,14 @@
             // 
             // btnGuardar
             // 
+            this.btnGuardar.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnGuardar.Font = new System.Drawing.Font("Modern No. 20", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnGuardar.Location = new System.Drawing.Point(37, 356);
+            this.btnGuardar.Location = new System.Drawing.Point(158, 341);
             this.btnGuardar.Name = "btnGuardar";
             this.btnGuardar.Size = new System.Drawing.Size(134, 71);
             this.btnGuardar.TabIndex = 6;
             this.btnGuardar.Text = "Guardar";
-            this.btnGuardar.UseVisualStyleBackColor = true;
+            this.btnGuardar.UseVisualStyleBackColor = false;
             this.btnGuardar.Click += new System.EventHandler(this.btnGuardar_Click);
             // 
             // dgvRecetas
@@ -114,19 +115,21 @@
             // 
             // btnLimpiar
             // 
+            this.btnLimpiar.BackColor = System.Drawing.SystemColors.GradientActiveCaption;
             this.btnLimpiar.Font = new System.Drawing.Font("Modern No. 20", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnLimpiar.Location = new System.Drawing.Point(205, 362);
+            this.btnLimpiar.Location = new System.Drawing.Point(409, 344);
             this.btnLimpiar.Name = "btnLimpiar";
-            this.btnLimpiar.Size = new System.Drawing.Size(134, 59);
+            this.btnLimpiar.Size = new System.Drawing.Size(134, 65);
             this.btnLimpiar.TabIndex = 8;
             this.btnLimpiar.Text = "Limpiar";
-            this.btnLimpiar.UseVisualStyleBackColor = true;
+            this.btnLimpiar.UseVisualStyleBackColor = false;
             this.btnLimpiar.Click += new System.EventHandler(this.btnLimpiar_Click);
             // 
             // FormRecetas
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(759, 438);
             this.Controls.Add(this.btnLimpiar);
             this.Controls.Add(this.dgvRecetas);
@@ -137,6 +140,7 @@
             this.Controls.Add(this.label3);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
+            this.ForeColor = System.Drawing.Color.Black;
             this.Name = "FormRecetas";
             this.Text = "Form1";
             ((System.ComponentModel.ISupportInitialize)(this.dgvRecetas)).EndInit();

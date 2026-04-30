@@ -1,0 +1,15 @@
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EATEASY\EATEASY\bin\Debug\EATEASY.exe.config
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EATEASY.csprojResolveAssemblyReference.cache
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EATEASY.FormRecetas.resources
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EATEASY.Properties.Resources.resources
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EATEASY.csproj.GenerateResource.Cache
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\bin\Debug\MySql.Data.dll
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EATEASY.FormCostoReceta.resources
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EATEASY.FormRecetaIngredientes.resources
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EATEASY.FormMenu.resources
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EATEASY.FormIngredientes.resources
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\bin\Debug\EAT-EASY.exe.config
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\bin\Debug\EAT-EASY.exe
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\bin\Debug\EAT-EASY.pdb
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EAT-EASY.exe
+C:\Users\alex1\OneDrive\Documentos\Visual Studio 2012\Projects\EAT-EASY\EATEASY\obj\Debug\EAT-EASY.pdb

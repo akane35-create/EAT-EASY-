@@ -134,5 +134,13 @@ namespace EATEASY
             txtCantidad.Clear();
             CargarDetalle();
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            FormRecetaIngredientes f = new FormRecetaIngredientes();
+            f.ShowDialog();
+
+            this.Close(); // cierra el menú
+        }
     }
 }
